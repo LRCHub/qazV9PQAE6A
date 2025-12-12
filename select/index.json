@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "the last bullet",
+  "base_artist": "KOKO",
+  "createdAt": "2025-12-12T15:43:42.359169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Last Bullet",
+      "artist": "Digimortal",
+      "has_synced": true,
+      "path": "select/01_The_Last_Bullet_Digimortal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the last bullet",
+      "artist": "幸祜",
+      "has_synced": true,
+      "path": "select/02_the_last_bullet_幸祜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Bullet Magic",
+      "artist": "Grenouer",
+      "has_synced": false,
+      "path": "select/03_The_Last_Bullet_Magic_Grenouer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the last bullet",
+      "artist": "KOKO",
+      "has_synced": false,
+      "path": "select/pl_01_the_last_bullet_KOKO.txt"
+    }
+  ]
+}
